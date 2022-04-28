@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-        "id" = "1",
+        "id" = 1,
         "RegionNameInput": "Передкарпатська нафтогазоносна область",
         "UkraineRegionNameInput": "Чернівецька",
         "NameInput": "Білицьке-Г",
@@ -10,10 +10,10 @@
         "OilSizeInput": "Середнє",
         "GasSizeInput": "Дрібне",
         "OpeningYearInput": "1949",
-        "ComissioningYearInput: "1949"
+        "ComissioningYearInput": "1949"
     }
      {
-        "id" = "2",
+        "id" = 2,
         "RegionNameInput": "Передкарпатська нафтогазоносна область",
         "UkraineRegionNameInput": "Івано-Франківська",
         "NameInput": "Богородчанське-Г",
@@ -22,7 +22,7 @@
         "OilSizeInput": "-",
         "GasSizeInput": "Дрібне",
         "OpeningYearInput": "1963",
-        "ComissioningYearInput: "1970"
+        "ComissioningYearInput": "1970"
     }
   ],
   "profile": {

@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-        "id" = 1,
+        "id": 1,
         "RegionNameInput": "Передкарпатська нафтогазоносна область",
         "UkraineRegionNameInput": "Чернівецька",
         "NameInput": "Білицьке-Г",
@@ -13,7 +13,7 @@
         "ComissioningYearInput": "1949"
     }
      {
-        "id" = 2,
+        "id": 2,
         "RegionNameInput": "Передкарпатська нафтогазоносна область",
         "UkraineRegionNameInput": "Івано-Франківська",
         "NameInput": "Богородчанське-Г",

@@ -1,5 +1,29 @@
 {
   "posts": [
+    {
+        "id" = "1",
+        "RegionNameInput": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionNameInput": "Чернівецька",
+        "NameInput": "Білицьке-Г",
+        "LocarionInput": "Ст.Бiлиця",
+        "TypeInput": "Нафтогазове",
+        "OilSizeInput": "Середнє",
+        "GasSizeInput": "Дрібне",
+        "OpeningYearInput": "1949",
+        "ComissioningYearInput: "1949"
+    }
+     {
+        "id" = "2",
+        "RegionNameInput": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionNameInput": "Івано-Франківська",
+        "NameInput": "Богородчанське-Г",
+        "LocarionInput": "28 км на ПдС вiд м.Iвано-Фpанкiвськ",
+        "TypeInput": "Газове",
+        "OilSizeInput": "-",
+        "GasSizeInput": "Дрібне",
+        "OpeningYearInput": "1963",
+        "ComissioningYearInput: "1970"
+    }
   ],
   "profile": {
     "name": "typicode"

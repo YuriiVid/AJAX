@@ -2,27 +2,27 @@
   "posts": [
     {
         "id": 1,
-        "RegionNameInput": "Передкарпатська нафтогазоносна область",
-        "UkraineRegionNameInput": "Чернівецька",
-        "NameInput": "Білицьке-Г",
-        "LocationInput": "Ст.Бiлиця",
-        "TypeInput": "Нафтогазове",
-        "OilSizeInput": "Середнє",
-        "GasSizeInput": "Дрібне",
-        "OpeningYearInput": "1949",
-        "ComissioningYearInput": "1949"
+        "RegionName": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionName": "Чернівецька",
+        "Name": "Білицьке-Г",
+        "Location": "Ст.Бiлиця",
+        "Type": "Нафтогазове",
+        "OilSize": "Середнє",
+        "GasSize": "Дрібне",
+        "OpeningYear": "1949",
+        "ComissioningYear": "1949"
     },
      {
         "id": 2,
-        "RegionNameInput": "Передкарпатська нафтогазоносна область",
-        "UkraineRegionNameInput": "Івано-Франківська",
-        "NameInput": "Богородчанське-Г",
-        "LocationInput": "28 км на ПдС вiд м.Iвано-Фpанкiвськ",
-        "TypeInput": "Газове",
-        "OilSizeInput": "-",
-        "GasSizeInput": "Дрібне",
-        "OpeningYearInput": "1963",
-        "ComissioningYearInput": "1970"
+        "RegionName": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionName": "Івано-Франківська",
+        "Name": "Богородчанське-Г",
+        "Location": "28 км на ПдС вiд м.Iвано-Фpанкiвськ",
+        "Type": "Газове",
+        "OilSize": "-",
+        "GasSize": "Дрібне",
+        "OpeningYear": "1963",
+        "ComissioningYear": "1970"
     }
   ],
   "profile": {
